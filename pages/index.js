@@ -12,10 +12,7 @@ export default function Home() {
         <title>Rizkirmdhn Links</title>
         <meta name="title" content="Rizkirmdhn Links" />
         <meta name="author" content="Rizkirmdhn" />
-        <meta
-          name="description"
-          content="Rizkirmdhn Links"
-        />
+        <meta name="description" content="Rizkirmdhn Links" />
         <meta
           name="keywords"
           content="Rizkirmdhn, Rizpedia, NAS Rizkirmdhn, Link Tree Rizkirmdhn"
@@ -24,19 +21,13 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://rizpedia.my.id" />
         <meta property="og:title" content="Rizkirmdhn" />
-        <meta
-          property="og:description"
-          content="Rizkirmdhn Links"
-        />
+        <meta property="og:description" content="Rizkirmdhn Links" />
         <meta property="og:image" content="./website.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://rizpedia.my.id" />
         <meta property="twitter:title" content="Rizkirmdhn" />
-        <meta
-          property="twitter:description"
-          content="Rizkirmdhn Links"
-        />
+        <meta property="twitter:description" content="Rizkirmdhn Links" />
         <meta property="twitter:image" content="./website.png" />
       </Head>
 

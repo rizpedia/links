@@ -55,7 +55,6 @@ const links = [
     url: "https://router.rizpedia.my.id",
     img: require("../public/assets/website.webp"),
   },
-<<<<<<< HEAD
   {
     id: 10,
     name: "Web Development Server",
@@ -70,16 +69,13 @@ const links = [
     url: "https://phpmyadmin.rizpedia.my.id",
     img: require("../public/assets/phpmyadmin.jpg"),
   },
-
-=======
-    {
+  {
     id: 9,
     name: "Personal Blog",
     about: "Blog dengan isi yang random untuk berbagi informasi",
     url: "https://blog.rizpedia.my.id",
     img: require("../public/assets/website.webp"),
   },
->>>>>>> 64199a6670d86ba4131c95950405f4c65600f550
 ];
 
 export default links;
