@@ -71,11 +71,18 @@ main {
 
 .cards-img {
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 .cards-name {
   font-size: 1.2rem;
   font-weight: 600;
+}
+
+.cards-wrap{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  border-radius: 7px;
+
 }
 
 @media screen and (max-width: 576px) {
