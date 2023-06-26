@@ -56,6 +56,13 @@ const links = [
     img: require("../public/assets/website.webp"),
   },
   {
+    id: 9,
+    name: "Personal Blog",
+    about: "Blog dengan isi yang random untuk berbagi informasi",
+    url: "https://blog.rizpedia.my.id",
+    img: require("../public/assets/website.webp"),
+  },
+  {
     id: 10,
     name: "Web Development Server",
     about: "Disinilah saya meletakan kodingan",
@@ -68,13 +75,6 @@ const links = [
     about: "Dashboard phpmyadmin",
     url: "https://phpmyadmin.rizpedia.my.id",
     img: require("../public/assets/phpmyadmin.jpg"),
-  },
-  {
-    id: 9,
-    name: "Personal Blog",
-    about: "Blog dengan isi yang random untuk berbagi informasi",
-    url: "https://blog.rizpedia.my.id",
-    img: require("../public/assets/website.webp"),
   },
 ];
 
