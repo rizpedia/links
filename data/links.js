@@ -64,17 +64,17 @@ const links = [
   },
   {
     id: 10,
-    name: "Web Development Server",
-    about: "Disinilah saya meletakan kodingan",
-    url: "https://phpserver.rizpedia.my.id",
-    img: require("../public/assets/website.webp"),
-  },
-  {
-    id: 11,
     name: "PhpMyAdmin",
     about: "Dashboard phpmyadmin",
     url: "https://phpmyadmin.rizpedia.my.id",
     img: require("../public/assets/phpmyadmin.jpg"),
+  },
+  {
+    id: 11,
+    name: "Web Development Server",
+    about: "Disinilah saya meletakan kodingan",
+    url: "https://phpserver.rizpedia.my.id",
+    img: require("../public/assets/website.webp"),
   },
 ];
 
